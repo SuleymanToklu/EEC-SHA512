@@ -55,32 +55,47 @@ Aşağıda uygulamanın bazı ekran görüntülerini bulabilirsiniz:
 
 ### Ana Sayfa ve Özellikler
 
-<!-- Buraya ana sayfa ekran görüntüsünü ekleyin -->
+![resim](https://github.com/user-attachments/assets/fbd5f8e3-9a89-4c27-be1c-55d2ced43610)
+
 `Ekran görüntüsü: Ana sayfa ve özellikler bölümü`
 
 ### SHA512 Hash Fonksiyonu
 
-<!-- Buraya SHA512 hash ekran görüntüsünü ekleyin -->
+![resim](https://github.com/user-attachments/assets/8d0e700a-cf68-4cd9-b5f9-1945bb90fad2)
+
 `Ekran görüntüsü: SHA512 hash işlemi ve sonucu`
 
 ### Dosya Hash Fonksiyonu
 
-<!-- Buraya dosya hash ekran görüntüsünü ekleyin -->
+![resim](https://github.com/user-attachments/assets/82bd8257-f5cd-4f00-9b1b-3b64feba1ae6)
+
+![resim](https://github.com/user-attachments/assets/d8ad6a4f-12a1-43d4-8d2f-fa255601d42a)
+
 `Ekran görüntüsü: Dosya hash işlemi ve sonucu`
 
 ### ECC Şifreleme
 
-<!-- Buraya ECC şifreleme ekran görüntüsünü ekleyin -->
+![resim](https://github.com/user-attachments/assets/c700448a-c13b-4475-8817-0f9729e0cdbf)
+
+![resim](https://github.com/user-attachments/assets/174e8320-0d25-4706-8f45-a61fe22c3c28)
+![resim](https://github.com/user-attachments/assets/c32fd9b7-a64b-4da3-b8eb-780dbe9b2623)
+
 `Ekran görüntüsü: ECC ile metin şifreleme`
 
 ### ECC Şifre Çözme
 
-<!-- Buraya ECC şifre çözme ekran görüntüsünü ekleyin -->
+![resim](https://github.com/user-attachments/assets/38cabb7f-1283-4997-9ca6-b58b6877f18e)
+![resim](https://github.com/user-attachments/assets/1ee10afe-183f-4eb9-8c1b-70202aa425d5)
+
 `Ekran görüntüsü: ECC ile şifre çözme`
 
 ### Kriptografi Bilgi Merkezi
 
-<!-- Buraya bilgi merkezi ekran görüntüsünü ekleyin -->
+![resim](https://github.com/user-attachments/assets/f0119f84-b298-47b5-b7c1-3c7e27f7a56a)
+
+![resim](https://github.com/user-attachments/assets/ac253a08-b898-4754-881e-44b45bf5f04e)
+![resim](https://github.com/user-attachments/assets/08782ee4-7395-48e7-ab19-fbbece635097)
+
 `Ekran görüntüsü: Kriptografi bilgi merkezi sekmeleri`
 
 ## Teknolojiler
