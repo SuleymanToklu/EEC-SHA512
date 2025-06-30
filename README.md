@@ -96,6 +96,11 @@ Aşağıda uygulamanın bazı ekran görüntülerini bulabilirsiniz:
 ![resim](https://github.com/user-attachments/assets/ac253a08-b898-4754-881e-44b45bf5f04e)
 ![resim](https://github.com/user-attachments/assets/08782ee4-7395-48e7-ab19-fbbece635097)
 
+![resim](https://github.com/user-attachments/assets/d7d3a737-9a83-41b9-a307-24ed44842481)
+
+
+
+
 `Ekran görüntüsü: Kriptografi bilgi merkezi sekmeleri`
 
 ## Teknolojiler
