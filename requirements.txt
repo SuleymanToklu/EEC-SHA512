@@ -1,0 +1,4 @@
+streamlit>=1.32.0
+tinyec>=0.4.0
+cryptography>=42.0.5
+pillow>=10.2.0
